@@ -1,5 +1,5 @@
 ### Install TermuXBlacK
-1. Just download installer script `wget https://github.com/TuserAhammed/Termux-Black/raw/master/install.sh`
+1. Just download installer script `wget https://github.com/TuserAhammed/Termux-Black/blob/main/install.sh`
 2. Now run `bash install.sh`
 
 ### Install Package 
